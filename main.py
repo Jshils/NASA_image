@@ -5,6 +5,7 @@ from datetime import date
 now = date.today()
 print(now)
 
+
 api_key = "x1I5fdzd7jqpICqhquppDNNzsgekH4dI3DDRYcsp"
 
 url = "https://api.nasa.gov/planetary/apod?" \
